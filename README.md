@@ -10,6 +10,7 @@ Configruing VPC to host our Smart Contracts on an EC2
 4. Internet Gateway- 
 5. Security Group-
 6. Network Access Control List (NACL)- 
+7. Router- 
 
 Deploy static sites AWS an S3 Bucket using CloudFront and Route53
 ===================================
