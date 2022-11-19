@@ -78,9 +78,17 @@ From the [AWS IAM Users Console](https://console.aws.amazon.com/iam/?#users) sel
   ]
 }
 ```
-Results!
-=======
+
 Select the bucket you uploaded your file to. Next press copy URL.
 
 <img width="1440" alt="Screen Shot 2022-11-19 at 9 30 15 AM" src="https://user-images.githubusercontent.com/104800728/202856080-8e6f5859-9ed0-443d-b4ba-4877bc352055.png">
 ![Screen Shot 2022-11-17 at 1 11 41 PM](https://user-images.githubusercontent.com/104800728/202526573-a7976c99-eff9-458b-b70f-426997c05a2c.png)
+
+How to Configure CloudFront
+=========================
+1. Open the CloudFront page in the AWS console.Create Bucket Screen
+2. Click the Create Distribution button. If you are asked to select a delivery method, choose Web and click Get Started
+3. In the Origin Settings section, click on the Origin Domain Name and TYPE the bucket website URL from the bucket we just created. DO NOT select it from the dropdown. (The bucket URL is available in the static website hosting section of the S3 console.)
+4. In the Default Cache Behavior Settings section, we need to change the Viewer Control Policy. Set this to Redirect HTTP to HTTPS. Leave everything else set to the defaults.
+Results!
+=======
