@@ -1,5 +1,14 @@
 # TheBlackSwan
-![depix-mask](https://user-images.githubusercontent.com/104800728/201481962-9e6826c2-1af6-4297-a310-69b982994b5d.png)
+Configruing VPC to host our Smart Contracts on an EC2
+========================================
+
+![image](https://user-images.githubusercontent.com/104800728/202856865-6949b6d5-9758-4034-aed3-c535528d45e0.png)
+AWS Virtual Private Cloud- 
+Availability Zone (AZ)- 
+Subent- 
+Internet Gateway- 
+Security Group-
+Network Access Control List (NACL)- 
 
 Deploy static sites AWS an S3 Bucket using CloudFront and Route53
 ===================================
