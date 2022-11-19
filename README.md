@@ -9,9 +9,7 @@ Deploy static sites AWS an S3 Bucket using CloudFront and Route53
 S3 Bucket Setup
 ===============
 
-<img width="1440" alt="Screen Shot 2022-11-17 at 12 49 31 PM" src="https://user-images.githubusercontent.com/104800728/202520500-2f9c26c6-b7de-4ae0-a084-7aadb5257f7a.png">
-
-Create a bucket 
+Create a bucket & then add Object to bucket
 ---------------
 
 Bucket names must conform with DNS requirements:
@@ -24,10 +22,11 @@ Bucket names must conform with DNS requirements:
 * Cannot contain dashes next to periods (e.g., "my-.bucket.com" and "my.-bucket" are invalid)
 
 
+
 Configure the Bucket Static Website Hosting
 -------------------------------------------
 
-![Screen Shot 2022-11-17 at 1 13 05 PM](https://user-images.githubusercontent.com/104800728/202525712-9847e5ff-9da4-416f-8b9f-94bb862a031c.png)
+<img width="1092" alt="Screen Shot 2022-11-19 at 9 32 15 AM" src="https://user-images.githubusercontent.com/104800728/202855977-dc768964-d2d6-4817-8e8f-d72ebf0c8b6e.png">
 
 Once the bucket is created, select it and choose `Properties > Static Website Hosting`. 
 
@@ -53,26 +52,6 @@ Static sites hosted on S3 do not support private files (password protection, etc
 	]
 }
 ```
-
-S3 User Setup
-=============
-
-Log into your [AWS Console](https://console.aws.amazon.com/iam/?#users) and go to the [Users](https://console.aws.amazon.com/iam/?#users) management console. Click the `Create New Users` button and enter a username. 
-
-Credentials File
-----------------
-
-Have AWS create a new key pair for the user and copy the contents into a `aws-credentials.json` file in the root directory of your project. You should add this file to `.gitignore` (or similar) so that credentials are not checked into version control.
-
-```json
-{ 
-	"accessKeyId": "PUBLIC_KEY", 
-	"secretAccessKey": "SECRET_KEY", 
-	"region": "us-west-2" 
-}
-```
-
-**note**: As AWS SDK's documentation points out, you could also set those as `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` environment variables 
 
 User Permissions
 ----------------
@@ -103,4 +82,5 @@ Results!
 =======
 Select the bucket you uploaded your file to. Next press copy URL.
 
+<img width="1440" alt="Screen Shot 2022-11-19 at 9 30 15 AM" src="https://user-images.githubusercontent.com/104800728/202856080-8e6f5859-9ed0-443d-b4ba-4877bc352055.png">
 ![Screen Shot 2022-11-17 at 1 11 41 PM](https://user-images.githubusercontent.com/104800728/202526573-a7976c99-eff9-458b-b70f-426997c05a2c.png)
