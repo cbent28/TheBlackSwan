@@ -3,12 +3,13 @@ Configruing VPC to host our Smart Contracts on an EC2
 ========================================
 
 ![image](https://user-images.githubusercontent.com/104800728/202856865-6949b6d5-9758-4034-aed3-c535528d45e0.png)
-AWS Virtual Private Cloud- 
-Availability Zone (AZ)- 
-Subent- 
-Internet Gateway- 
-Security Group-
-Network Access Control List (NACL)- 
+
+1. AWS Virtual Private Cloud- 
+2. Availability Zone (AZ)- 
+3. Subent- 
+4. Internet Gateway- 
+5. Security Group-
+6. Network Access Control List (NACL)- 
 
 Deploy static sites AWS an S3 Bucket using CloudFront and Route53
 ===================================
