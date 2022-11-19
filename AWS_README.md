@@ -1,7 +1,3 @@
-# TheBlackSwan
-
-Black Swan explanation goes here!!
-
 Configuring VPC to host our Smart Contracts on an EC2
 ========================================
 
