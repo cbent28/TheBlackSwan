@@ -3,13 +3,13 @@ Configuring VPC to host our Smart Contracts on an EC2
 
 ![image](https://user-images.githubusercontent.com/104800728/202856865-6949b6d5-9758-4034-aed3-c535528d45e0.png)
 
-1. AWS Virtual Private Cloud- 
-2. Availability Zone (AZ)- 
-3. Subent- 
-4. Internet Gateway- 
-5. Security Group-
-6. Network Access Control List (NACL)- 
-7. Router- 
+1. **Virtual Private Cloud (VPC)**- Enables you to launch AWS resources into a virtual network that you've defined.
+2. **Availability Zone (AZ)**- Distinct locations within an AWS Region that are engineered to be isolated from failures in other Availability Zones.
+3. **Subent**- A range of IP addresses in your VPC. (You can configure public and/or private subnets)
+4. **Internet Gateway**- horizontally scaled, redundant, and highly available VPC component that allows communication between your VPC and the internet.
+5. **Security Group**- Acts as a virtual firewall at the instance level controlling inbound and outbound traffic. They only have rules that allow traffic due to all trafic beiing dienied at first.
+6. **Network Access Control List (NACL)**- Acts as a firewall at the subnet level. Traffic rules are determined by rule # starting from lowest to highest. AWS recommends adding Rules in increments of 10 so that you have room to add additional rules inbetween them if needed.
+7. **Router**- The primary function of this VPC router is to take all of the route tables defined within that VPC, and then direct the traffic flow within that VPC, as well as to subnets outside of the VPC, based on the rules defined within those tables.
 
 Deploy static sites AWS an S3 Bucket using CloudFront and Route53
 ===================================
@@ -24,7 +24,7 @@ Create a bucket & then add Object to bucket
 
 Bucket names must conform with DNS requirements:
 
-* **Should not contain uppercase characters**
+* Should not contain uppercase characters
 * Should not contain underscores
 * Should be between 3 and 63 characters long
 * Should not end with a dash
@@ -103,6 +103,10 @@ How to Configure CloudFront
 6. Now we have the S3 bucket serving your content, and we have it distributed on CloudFront. CloudFront creates a unique URL for your distribution. This can be found on the main CloudFront screen under the Domain Name column. It will look something like this:
 
 <img width="1440" alt="Screen Shot 2022-11-19 at 9 30 15 AM" src="https://user-images.githubusercontent.com/104800728/202856080-8e6f5859-9ed0-443d-b4ba-4877bc352055.png">
+
+How to Configure Rout 53 and The Certificate Manager
+===================================================
+
 
 Results!
 =======
