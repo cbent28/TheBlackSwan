@@ -13,7 +13,7 @@ What is a Black Swan Event?
 
 Every trader wishes they had a way in which we could see the future moves of the financial markets. We have to stick to rules of due diligence, diversification, hedging, rebalancing and continuous monitoring. Most of the time, the financial market moves are dictated by the fear & greed of the investors. The inherent risks of investing in the financial markets can never be brought down to zero but they can be muted significantly by staying on top of things. Having said that, financial markets have a mind of their own & there would be times when a certain event or occurrence would take place that would be beyond anybody’s control. These are called Black Swan events which are random and unexpected in nature.
 
-Black Swan events effect not only investors, but the entire world. To read more about Black Swan Events please refer to: https://www.investopedia.com/terms/b/blackswan.asp
+Black Swan events effect not only the investors, but the entire world. To read more about Black Swan Events please refer to: https://www.investopedia.com/terms/b/blackswan.asp
 
 ![image](https://user-images.githubusercontent.com/104800728/202858664-9b568419-98e6-44e6-b5b4-fc4ee7cecd1e.png)
 
