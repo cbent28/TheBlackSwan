@@ -6,7 +6,7 @@ The Black Swan Token
 Background
 ------------
 
-Creation of a Token that will act as an alternative for investors during a Black Swan Event.
+Creation of a Token that will act as an alternative for investors during a Black Swan Event. When the market drops during a black swan event, our coin will increase in value.
 
 What is a Black Swan Event?
 ---------------------
