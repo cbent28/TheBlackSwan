@@ -1,5 +1,7 @@
 The Black Swan Token
 =====================
+![image](https://user-images.githubusercontent.com/104800728/202915264-808e9c11-0915-4ce4-af68-851608a0bd97.png)
+
 
 Background
 ------------
