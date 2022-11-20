@@ -28,6 +28,7 @@ History of Black Swan Events
 
 The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, writer, and former Wall Street Quant trader for 21 years, where he developed computer models for major financial institutions. The word Black Swan was popularized after the meltdown that resulting after the Financial crisis of 2008.
 
+**Examples of Black Swan Events throughout History:**
 1. Black Swan Event 1997: Asian Financial Crisis
 2. Black Swan Event 2000: The Dot-Com Crash
 3. Black Swan Event 2001: Crash of 9/11
