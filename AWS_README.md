@@ -30,7 +30,7 @@ pip install pandas
 npm install web3
 ```
 
-Deploy static sites AWS an S3 Bucket using CloudFront and Route53
+Deploy static wesites on AWS using S3, CloudFront, and Route53
 ===================================
 
 ![image](https://user-images.githubusercontent.com/104800728/202912500-77f15a3b-97e1-480f-8376-b2c4744e2c27.png)
