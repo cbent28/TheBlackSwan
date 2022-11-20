@@ -11,24 +11,31 @@ Configuring VPC to host our Smart Contracts on an EC2
 6. **Network Access Control List (NACL)**- Acts as a firewall at the subnet level. Traffic rules are determined by rule # starting from lowest to highest. AWS recommends adding Rules in increments of 10 so that you have room to add additional rules inbetween them if needed.
 7. **Router**- The primary function of this VPC router is to take all of the route tables defined within that VPC, and then direct the traffic flow within that VPC, as well as to subnets outside of the VPC, based on the rules defined within those tables.
 
+Logging into your EC2 Instance
+--------------------------
+1. Set up default VPC
+2. Add EC2 instance to the **public subnet** and **public security group** with the default VPC. 
+3. Specify which ports you are going to allow traffic through in the securty group.
+4. Download your keys and then connect to EC2 Instance either using SSH or PUTTY. You can also set up a cloud9 environment. 
+5. Now you can begn your installation process. 
+
 Install
 --------
-First install node.js here: 
+1. First install node.js here: 
+[Download - Node.js](https://nodejs.org/en/download/)
 
-[Download - Node.jshttps://nodejs.org › download](https://nodejs.org/en/download/)
-
+2. Next install:
 ```
 pip install streamlit
 sudo apt install python3-venv
 pip install pandas
 npm install web3
-
 ```
 
 Deploy static sites AWS an S3 Bucket using CloudFront and Route53
 ===================================
 
-![image](https://user-images.githubusercontent.com/104800728/202855601-f119c4df-ad2e-407c-9239-beaf4ac98790.png)
+![image](https://user-images.githubusercontent.com/104800728/202912500-77f15a3b-97e1-480f-8376-b2c4744e2c27.png)
 
 S3 Bucket Setup
 ===============
