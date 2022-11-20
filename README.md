@@ -19,7 +19,7 @@ Black Swan events effect not only investors, but the entire world. To read more 
 
 What to Do
 ----------------
-Investors usually try to find an alternvative investment either to make ROI, or to keep their portfolio from plummeting with the market. During a Black Swan evet when the entire market drops and there are no alternatives for investment. During these times, in the act of fear people usally cash out on their investment, and end up losing a lot of money. We have created an ETH based token that in the case of a black swan event, the value will increase based on the decreasing market value. This will make for a great investment for people that were financially effected by recent Black Swan Events, or anyone looking to keep their investments safe.
+Investors usually try to find an alternvative investment either to make ROI, or to keep their portfolio from plummeting with the market. During a Black Swan event, there are usually no alternative investments for when the market drops. There is also know way to tell when the market drops. During these times, people usually act in fear and cash out on their investment. In other words... they end up losing a lot of money. We have created an ETH based token that in the case of a black swan event, the value will increase based on the decreasing market value. This will make for a great investment for people that were financially effected by recent Black Swan Events, or anyone looking to keep their investments safe.
 
 ![image](https://user-images.githubusercontent.com/104800728/202858774-fbd97700-675b-4b7e-9ae4-47807f751f6d.png)
 
@@ -42,3 +42,4 @@ The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, wr
 Sources
 ===============
 Investopedia- https://www.investopedia.com/terms/b/blackswan.asp
+The Corporate Finance Institute (CFI)- https://corporatefinanceinstitute.com/resources/economics/black-swan-event/
