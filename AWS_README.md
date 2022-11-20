@@ -15,7 +15,7 @@ Install
 --------
 First install node.js here: 
 
-Download - Node.jshttps://nodejs.org › download
+[Download - Node.jshttps://nodejs.org › download](https://nodejs.org/en/download/)
 
 ```
 pip install streamlit
