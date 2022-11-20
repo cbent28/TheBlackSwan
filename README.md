@@ -23,8 +23,11 @@ Investors usually try to find an alternvative investment either to make ROI, or 
 
 ![image](https://user-images.githubusercontent.com/104800728/202858774-fbd97700-675b-4b7e-9ae4-47807f751f6d.png)
 
-Examples of Black Swan Events in History
+History of Black Swan Events
 ------------------------------------
+
+The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, writer, and former Wall Street Quant trader for 21 years, where he developed computer models for major financial institutions. The word Black Swan was popularized after the meltdown that resulting after the Financial crisis of 2008.
+
 1. Black Swan Event 1997: Asian Financial Crisis
 2. Black Swan Event 2000: The Dot-Com Crash
 3. Black Swan Event 2001: Crash of 9/11
@@ -35,7 +38,6 @@ Examples of Black Swan Events in History
 8. Black Swan Event 2015: Black Monday China
 9. Black Swan Event 2016: BREXIT
 
-The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, writer, and former Wall Street Quant trader for 21 years, where he developed computer models for major financial institutions. The word Black Swan was popularized after the meltdown that resulting after the Financial crisis of 2008.
 
 ![image](https://user-images.githubusercontent.com/104800728/202858824-7b4759d0-5fc7-4250-84d1-2521a11f750c.png)
 
