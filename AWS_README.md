@@ -21,9 +21,7 @@ Logging into your EC2 Instance
 
 Install
 --------
-1. First install node.js here: 
-[Download - Node.js](https://nodejs.org/en/download/)
-
+1. First install node.js here: [Download - Node.js](https://nodejs.org/en/download/)
 2. Next install:
 ```
 pip install streamlit
