@@ -1,9 +1,9 @@
 The Black Swan Token
 =====================
 
-<img width="353" alt="Screen Shot 2022-11-12 at 7 26 18 AM" src="https://user-images.githubusercontent.com/104800728/202860485-17ccacd4-18bd-4da1-a22f-295f2f2f2314.png">
+Background
+------------
 
-Background:
 Creation of a Token that will act as an alternative for investors during a Black Swan Event.
 
 What is a Black Swan Event?
@@ -39,6 +39,8 @@ The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, wr
 
 Our Token
 ===============
+
+<img width="353" alt="Screen Shot 2022-11-12 at 7 26 18 AM" src="https://user-images.githubusercontent.com/104800728/202860485-17ccacd4-18bd-4da1-a22f-295f2f2f2314.png">
 
 How It Works
 ---------------
