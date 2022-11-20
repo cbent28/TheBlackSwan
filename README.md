@@ -39,12 +39,6 @@ The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, wr
 
 ![image](https://user-images.githubusercontent.com/104800728/202858824-7b4759d0-5fc7-4250-84d1-2521a11f750c.png)
 
-Our Token
+Sources
 ===============
-![image](https://user-images.githubusercontent.com/104800728/202915264-808e9c11-0915-4ce4-af68-851608a0bd97.png)
-
-How It Works
----------------
-
-Data Techniques
----------------
+Investopedia- https://www.investopedia.com/terms/b/blackswan.asp
