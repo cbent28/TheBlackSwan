@@ -42,4 +42,5 @@ The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, wr
 Sources
 ===============
 Investopedia- https://www.investopedia.com/terms/b/blackswan.asp
+
 The Corporate Finance Institute (CFI)- https://corporatefinanceinstitute.com/resources/economics/black-swan-event/
