@@ -11,6 +11,20 @@ Configuring VPC to host our Smart Contracts on an EC2
 6. **Network Access Control List (NACL)**- Acts as a firewall at the subnet level. Traffic rules are determined by rule # starting from lowest to highest. AWS recommends adding Rules in increments of 10 so that you have room to add additional rules inbetween them if needed.
 7. **Router**- The primary function of this VPC router is to take all of the route tables defined within that VPC, and then direct the traffic flow within that VPC, as well as to subnets outside of the VPC, based on the rules defined within those tables.
 
+Install
+--------
+First install node.js here: 
+
+Download - Node.jshttps://nodejs.org › download
+
+```
+pip install streamlit
+sudo apt install python3-venv
+pip install pandas
+npm install web3
+
+```
+
 Deploy static sites AWS an S3 Bucket using CloudFront and Route53
 ===================================
 
