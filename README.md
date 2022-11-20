@@ -1,7 +1,7 @@
 The Black Swan Token
 =====================
 <img width="353" alt="Screen Shot 2022-11-12 at 7 26 18 AM" src="https://user-images.githubusercontent.com/104800728/202860485-17ccacd4-18bd-4da1-a22f-295f2f2f2314.png">
-
+  
 
 Background
 ------------
