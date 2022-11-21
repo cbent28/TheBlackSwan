@@ -29,6 +29,16 @@ sudo apt install python3-venv
 pip install pandas
 npm install web3
 ```
+Running Your Streamlit Application
+-----------------------------
+
+1. Navigate to your application folder.
+2. Navigate to the app.py folder.
+3. Run ```streamlit app.py```
+4. Copy the External URL and Paste it into your browser.
+
+**Congrats!! Your Streamlit application is running on an EC2 Instance!!**
+
 
 Deploy static wesites on AWS using S3, CloudFront, and Route53
 ===================================
