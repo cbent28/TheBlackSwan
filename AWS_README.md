@@ -1,4 +1,4 @@
-Configuring VPC to host our Smart Contracts on an EC2 instance
+Configuring an AWS VPC to host our Smart Contracts on an EC2 instance
 ========================================
 
 ![image](https://user-images.githubusercontent.com/104800728/202856865-6949b6d5-9758-4034-aed3-c535528d45e0.png)
