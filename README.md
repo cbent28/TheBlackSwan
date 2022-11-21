@@ -26,7 +26,7 @@ Investors usually try to find an alternvative investment either to make ROI, or 
 History of Black Swan Events
 ------------------------------------
 
-The term Black Swan was coined by Nassim Nicholas Taleb, a Finance professor, writer, and former Wall Street Quant trader for 21 years, where he developed computer models for major financial institutions. The word Black Swan was popularized after the meltdown that resulting after the Financial crisis of 2008.
+The term Black Swan was created by Nassim Nicholas Taleb, a Finance professor, writer, and former Wall Street Quant trader for 21 years, where he developed computer models for major financial institutions. The word Black Swan became very popular after the Financial crisis of 2008.
 
 **Examples of Black Swan Events throughout History:**
 1. Black Swan Event 1997: Asian Financial Crisis
