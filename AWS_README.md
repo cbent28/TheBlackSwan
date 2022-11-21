@@ -95,7 +95,9 @@ Static sites hosted on S3 do not support private files (password protection, etc
 User Permissions
 ----------------
 
-From the [AWS IAM Users Console](https://console.aws.amazon.com/iam/?#users) select the newly created user, then the `Permissions` Tab, then click the `Attach User Policy` button.  Paste in the following (substituting BUCKET-NAME as appropriate).
+If you created a new user, and wish to grant them permissions to to the S3 bucket please do the following:
+
+- From the [AWS IAM Users Console](https://console.aws.amazon.com/iam/?#users) select the newly created user, then the `Permissions` Tab, then click the `Attach User Policy` button.  Paste in the following (substituting BUCKET-NAME as appropriate).
 
 ```json
 {
@@ -118,7 +120,7 @@ From the [AWS IAM Users Console](https://console.aws.amazon.com/iam/?#users) sel
 }
 ```
 
-Select the bucket you uploaded your file to. Next press copy URL.
+Now navigate to the S3 bucket. Copy the static website URL and then paste it in your browser.
 
 <img width="1440" alt="Screen Shot 2022-11-19 at 9 42 44 AM" src="https://user-images.githubusercontent.com/104800728/202856514-809f4b64-dc7d-40a1-b011-fc79c5f2c727.png">
 
