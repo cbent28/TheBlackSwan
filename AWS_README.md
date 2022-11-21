@@ -134,12 +134,3 @@ How to Configure CloudFront
 6. Now we have the S3 bucket serving your content, and we have it distributed on CloudFront. CloudFront creates a unique URL for your distribution. This can be found on the main CloudFront screen under the Domain Name column. It will look something like this:
 
 <img width="1440" alt="Screen Shot 2022-11-19 at 9 30 15 AM" src="https://user-images.githubusercontent.com/104800728/202856080-8e6f5859-9ed0-443d-b4ba-4877bc352055.png">
-
-How to Configure Route 53
-===================================================
-1. Set up a Route 53 hosted zone
-2. Add domain records for your S3 bucket
-3. Set up www. subdomain redirects
-
-Results!
-=======
